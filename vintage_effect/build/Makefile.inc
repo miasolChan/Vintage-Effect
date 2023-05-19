@@ -1,4 +1,0 @@
--include libraries/AudioFile/build/Makefile.link
--include libraries/Gui/build/Makefile.link
--include libraries/WSServer/build/Makefile.link
--include libraries/sndfile/build/Makefile.link

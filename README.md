@@ -3,3 +3,4 @@ A vintage tape recorder and environment digital effects implemented in the Bela 
 
 ![gui](gui.jpg)
 
+GUI build with p5.js
